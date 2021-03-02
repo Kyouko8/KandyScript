@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+.ignore/
+kandylib/__pycache__
+lib_py/__pycache__
